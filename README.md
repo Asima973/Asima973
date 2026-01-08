@@ -13,7 +13,7 @@
 
 ## 📂 Projects
 - Student Portal Web App
-- E-commerce Website
-- Blog Application
+-
+- 
 
 ⭐ Explore my repositories below
